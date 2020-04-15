@@ -1,5 +1,4 @@
 <div align=center><img src="./picture/01.svg"/></div>
-# Edge-Engine
 
 ## Edge : 一个开源的科学计算引擎
 
