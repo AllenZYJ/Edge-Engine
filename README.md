@@ -42,7 +42,7 @@ git clone git@github.com:AllenZYJ/Edge-Computing-Engine.git
 
 cd to this dir `
 
-进入root目录:
+进入root_diff_lib目录:
 
 执行
 
@@ -511,7 +511,7 @@ Something :
 > 4. api接口更多的接近于pandas和numpy的使用习惯.
 > 5. 更多的细节参见目前最新的代码
 > 6. 欢迎star和关注.
-> 7. autodiff部分感谢国外博主Omar的思路提醒.
+> 7. autodiff部分感谢国外博主Omar的repo参考.
 >
 
 ------
